@@ -13,7 +13,7 @@ Detailed instructions for how to compile Spring can be found [here](https://spri
 
 The most simple set of commands will be:
 
-	cmake .
+	cmake
 	make
 
 ### Installation
